@@ -25,7 +25,8 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/></a>
 
 
-![Codeforces Rating](https://img.shields.io/badge/dynamic/json?color=orange&label=Codeforces%20Rating&query=%24.result.rating&url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DSoumik_SHU)
+![Codeforces Stats](https://YOUR_VERCEL_APP_URL/api/cf-stats?username=Soumik_SHU)
+
 
 
 
