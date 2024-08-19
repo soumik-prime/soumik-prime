@@ -39,5 +39,5 @@
 
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Soumik_SHU?theme=dark&font=Patrick%20Hand%20SC&ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/soumik_prime?theme=dark&font=Patrick%20Hand%20SC&ext=contest)
 
