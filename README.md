@@ -32,9 +32,9 @@
 <img src="assets/tailwind.svg" width="40" height="40"/></a>
 
 
-/* #### Works
+<!-- #### Works
 - Assignment 01
-- Assignment 02 */
+- Assignment 02 -->
 
 
 
