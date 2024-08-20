@@ -34,6 +34,7 @@
 
 #### Works
 - Assignment 01
+- Assignment 02
 
 
 
