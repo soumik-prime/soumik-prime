@@ -39,13 +39,14 @@
 
 
 
-<a herf="https://github.com/soumik-prime">@soumik-prime</a>
+<a href="https://github.com/soumik-prime">@soumik-prime</a>
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik-prime&layout=compact&hide_title=true&hide_border=true&theme=radical)
 
-<a herf="https://github.com/soumik-web">@soumik-web</a>
+<a href="https://github.com/soumik-web">@soumik-web</a>
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik-web&layout=compact&hide_title=true&hide_border=true&theme=radical)
+
 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/soumik_prime?theme=dark&font=Patrick%20Hand%20SC&ext=contest)
