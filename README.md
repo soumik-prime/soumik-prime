@@ -43,6 +43,8 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik-prime&layout=compact&hide_title=true&hide_border=true&theme=radical)
 
 ##soumik-web
-<a herf= "https://github.com/Soumik-Web"> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik-web&layout=compact&hide_title=true&hide_border=true&theme=radical) </a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik-web&layout=compact&hide_title=true&hide_border=true&theme=radical)
+
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/soumik_prime?theme=dark&font=Patrick%20Hand%20SC&ext=contest)
 
