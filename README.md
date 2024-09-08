@@ -37,7 +37,6 @@
 - Assignment 02 -->
 
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=soumik-prime&show_icons=true&hide_title=true&hide_border=true&theme=radical)
 
 
 
