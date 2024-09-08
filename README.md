@@ -40,5 +40,10 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soumik-prime&show_icons=true&hide_title=true&hide_border=true&theme=radical)
 
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik-prime&layout=compact&hide_title=true&hide_border=true&theme=radical)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=soumik-prime&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/soumik_prime?theme=dark&font=Patrick%20Hand%20SC&ext=contest)
 
