@@ -12,13 +12,14 @@
 <a href="https://www.linkedin.com/in/md-samiul-islam-soumik-29b3582bb"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
 
 
-| Programming Projects | My Web Works
+Programming Projects | My Web Works
+--- | ---
 |❖ [Calculator Project](https://github.com/soumik-prime/Calculator-Project) | ❖ [Programming Hero Tasks](https://soumik-ph-tasks.netlify.app/)
 <!-- ❖ Become a specialist on Codeforces
 ❖ Develop my portfolio website independently -->
 
-Programming Language | <img src="assets/c.svg" width="40" height="40"/> <img src="assets/cplusplus.svg" width="40" height="40"/> <img src="assets/javascript-16-svgrepo-com.svg" width="40" height="40"/> 
 --- | ---
+Programming Language | <img src="assets/c.svg" width="40" height="40"/> <img src="assets/cplusplus.svg" width="40" height="40"/> <img src="assets/javascript-16-svgrepo-com.svg" width="40" height="40"/> 
 | Web Development | <img src="assets/html-5.svg" width="40" height="40"/> <img src="assets/css-3.svg" width="40" height="40"/> <img src="assets/tailwind.svg" width="40" height="40"/>
 | Github Stats | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik-prime&layout=compact&hide_title=true&hide_border=true&theme=radical)
 
