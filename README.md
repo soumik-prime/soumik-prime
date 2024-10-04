@@ -8,8 +8,9 @@
  - Aspiring Web Developer
 
 #### Contact me:
-<a href="https://www.facebook.com/soumik.shu"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
-<a href="https://www.linkedin.com/in/md-samiul-islam-soumik-29b3582bb"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
+Social | <a href="https://www.facebook.com/soumik.shu"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a> <a href="https://www.linkedin.com/in/md-samiul-islam-soumik-29b3582bb"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
+| :--- | :--- |
+Virtual Judge |
 
 ##
 | **Programming Projects** | **My Web Works** |
