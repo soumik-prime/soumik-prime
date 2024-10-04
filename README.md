@@ -3,7 +3,7 @@
 ## I am a Newbie Programmer!
 
 | - Tech Lover
-|
+
 | - Enjoys Coding
 | - Aspiring Programmer
 | - Aspiring Web Developer
