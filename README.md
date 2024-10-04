@@ -7,10 +7,14 @@
 - Aspiring Programmer
 - Aspiring Web Developer
 
+## Programming Projects:
+❖ [Calculator Project](https://github.com/soumik-prime/Calculator-Project)
+
+
 ## My Web Works:
 ❖ [Programming Hero Tasks](https://soumik-ph-tasks.netlify.app/)
-// ❖ Become a specialist on Codeforces
-// ❖ Develop my portfolio website independently
+<!-- ❖ Become a specialist on Codeforces
+❖ Develop my portfolio website independently -->
 
 #### Contact me:
 <a href="https://www.facebook.com/soumik.shu"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
