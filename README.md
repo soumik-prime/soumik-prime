@@ -1,8 +1,9 @@
 ## I am a Newbie Programmer and Web Developer!
 
-| **Programming Projects** | **My Web Works** |
+| **Programming Works** | **My Web Works** |
 | :--- | :--- |
 | [Calculator Project](https://github.com/soumik-prime/Calculator-Project) | [Programming Hero Tasks](https://soumik-ph-tasks.netlify.app/)
+| | [CF-Ranking extantion](https://github.com/soumik-prime/CF-Ranking-Extension)
 
 
 ## Contact me:
