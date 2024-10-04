@@ -7,7 +7,7 @@
 - Aspiring Programmer
 - Aspiring Web Developer
 
-## Programming Projects: | My Web Works:
+Programming Projects: | My Web Works:
 --- | ---
 |❖ [Calculator Project](https://github.com/soumik-prime/Calculator-Project) | ❖ [Programming Hero Tasks](https://soumik-ph-tasks.netlify.app/)
 <!-- ❖ Become a specialist on Codeforces
