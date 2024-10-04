@@ -7,7 +7,7 @@
  - Aspiring Programmer
  - Aspiring Web Developer
 
-#### Contact me:
+## Contact me:
 |**Social** | <a href="https://www.facebook.com/soumik.shu"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a> &nbsp; <a href="https://www.linkedin.com/in/soumik-prime/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a> &nbsp; <a href="mailto:soumik.shu@gmail.com"><img src="assets/gmail.png" width="30" height="30"/></a>|
 | :--- | :---: |
 
