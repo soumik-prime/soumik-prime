@@ -20,20 +20,12 @@
 <a href="https://www.facebook.com/soumik.shu"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a>
 <a href="https://www.linkedin.com/in/md-samiul-islam-soumik-29b3582bb"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a>
 
-#### Programming: | Web Development:
+#### Programming:                               | Web Development:
+----------------------------                   | ----------------------------
+<img src="assets/c.svg" width="40" height="40"/>  C                 | <img src="assets/html-5.svg" width="40" height="40"/>  HTML
+<img src="assets/cplusplus.svg" width="40" height="40"/>  C++       | <img src="assets/css-3.svg" width="40" height="40"/>  CSS
+<img src="assets/javascript-16-svgrepo-com.svg" width="40" height="40"/>  JavaScript | <img src="assets/tailwind.svg" width="40" height="40"/>  Tailwind
 
-<div style="display: flex;">
-  <div style="flex: 1;">
-    <img src="assets/c.svg" width="40" height="40"/>
-    <img src="assets/cplusplus.svg" width="40" height="40"/>
-    <img src="assets/javascript-16-svgrepo-com.svg" width="40" height="40"/>
-  </div>
-  <div style="flex: 1;">
-    <img src="assets/html-5.svg" width="40" height="40"/>
-    <img src="assets/css-3.svg" width="40" height="40"/>
-    <img src="assets/tailwind.svg" width="40" height="40"/>
-  </div>
-</div>
 
 
 
