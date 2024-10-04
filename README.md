@@ -10,7 +10,7 @@
 #### Contact me:
 |**Social** | <a href="https://www.facebook.com/soumik.shu"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a> <a href="https://www.linkedin.com/in/md-samiul-islam-soumik-29b3582bb"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a> |
 | :--- | :--- |
-| **Virtual Judge** | <a href="https://codeforces.com/profile/Soumik_SHU"><img src="assets/codeforces.png" width="30" height="30"/></a> <a href="https://www.codechef.com/users/soumik_prime"><img src="assets/codechef.png" width="30" height="30"/></a> </br> <a href="https://www.hackerrank.com/profile/soumik_prime"><img src="assets/hackerrank.png" width="30" height="30"/></a> <a href="https://leetcode.com/u/soumik_prime/"><img src="assets/leetcode.png" width="30" height="30"/></a> |
+| **Virtual Judge** | <a href="https://codeforces.com/profile/Soumik_SHU"><img src="assets/codeforces.png" width="30" height="30"/></a>    <a href="https://www.codechef.com/users/soumik_prime"><img src="assets/codechef.png" width="30" height="30"/></a>   </br>   <a href="https://www.hackerrank.com/profile/soumik_prime"><img src="assets/hackerrank.png" width="30" height="30"/></a>   <a href="https://leetcode.com/u/soumik_prime/"><img src="assets/leetcode.png" width="30" height="30"/></a> |
 
 ##
 | **Programming Projects** | **My Web Works** |
