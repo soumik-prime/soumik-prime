@@ -14,7 +14,7 @@
 ##
 | **Programming Projects** | **My Web Works** |
 | :--- | :--- |
-|❖ [Calculator Project](https://github.com/soumik-prime/Calculator-Project) | ❖ [Programming Hero Tasks](https://soumik-ph-tasks.netlify.app/)
+| [Calculator Project](https://github.com/soumik-prime/Calculator-Project) | [Programming Hero Tasks](https://soumik-ph-tasks.netlify.app/)
 <!-- ❖ Become a specialist on Codeforces
 ❖ Develop my portfolio website independently -->
 
