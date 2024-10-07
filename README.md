@@ -22,4 +22,4 @@
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/soumik_prime?theme=dark&font=Patrick%20Hand%20SC&ext=contest)
 </br>
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Soumik_SHU&theme=transparent)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=Soumik_SHU&theme=radical)
