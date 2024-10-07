@@ -21,7 +21,5 @@
 | **Github Stats** | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soumik-prime&layout=compact&hide_title=true&hide_border=true&theme=radical) |
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/soumik_prime?theme=dark&font=Patrick%20Hand%20SC&ext=contest)
-<div>
-  <img style="height: 100%;" src="https://leetcode.card.workers.dev/soumik_prime?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
-  <img style="height: 100%;" src="https://codeforces-readme-stats.vercel.app/api/card?username=Soumik_SHU" alt="Codeforces Stats">
-</div>
+</br>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=Soumik_SHU" alt="Codeforces Stats">
