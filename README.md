@@ -3,7 +3,7 @@
 | **Programming Works** | **My Web Works** |
 | :--- | :--- |
 | [Calculator Project](https://github.com/soumik-prime/Calculator-Project) | [Programming Hero Tasks](https://soumik-ph-tasks.netlify.app/)
-| [Coming Soon...](#) | [My Portfolio](https://md-samiul-islam-soumik.netlify.app/)
+| [Coming Soon...](#) | [My Portfolio](https://samiulislam.dev)
 
 
 ## Contact me:
