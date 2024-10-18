@@ -2,7 +2,7 @@
 
 | **Programming Works** | **My Web Works** |
 | :--- | :--- |
-| [Calculator Project](https://github.com/soumik-prime/Calculator-Project) | [Programming Hero Tasks]([https://soumik-ph-tasks.netlify.app/](https://ph-tasks.samiulislam.dev/))
+| [Calculator Project](https://github.com/soumik-prime/Calculator-Project) | [Programming Hero Tasks]([https://soumik-ph-tasks.netlify.app/](https://ph-tasks.samiulislam.dev/)
 | [Coming Soon...](#) | [My Portfolio](https://samiulislam.dev)
 
 
