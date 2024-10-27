@@ -17,7 +17,7 @@
 ##
 | **Programming Language** | <img src="assets/c.svg" width="40" height="40"/> <img src="assets/cplusplus.svg" width="40" height="40"/> <img src="assets/javascript.svg" width="40" height="40"/> |
 | :--- | :--- | 
-| **Web Development** | <img src="assets/html-5.svg" width="40" height="40"/> <img src="assets/css-3.svg" width="40" height="40"/> <img src="assets/tailwind.svg" width="40" height="40"/> |
+| **Web Development** | <img src="assets/html-5.svg" width="40" height="40"/> <img src="assets/css-3.svg" width="40" height="40"/> <img src="assets/tailwind.svg" width="40" height="40"/> | <img src="[https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40"/> |
 
 ##
 
