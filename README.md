@@ -1,9 +1,12 @@
 ## I am a Newbie Programmer and Web Developer!
 
-| **Programming Works** | **My Web Works** |
-| :--- | :--- |
-| [Calculator Project](https://github.com/soumik-prime/Calculator-Project) | [Programming Hero Tasks](https://ph-tasks.samiulislam.dev/)
-| [Coming Soon...](#) | [My Portfolio](https://samiulislam.dev)
+| **My Works** |
+| :--- |
+| [My Portfolio](https://samiulislam.dev)
+| [Calculator Project](https://github.com/soumik-prime/Calculator-Project) 
+| [Programming Hero Tasks](https://ph-tasks.samiulislam.dev/)
+| [NEU CSE FEST 2025 WEBSITE] (https://cse-fest.shu.edu.bd/)
+| [Coming Soon...](#) 
 
 ## ICPC Onsite Count - 1
 1. Asia Dhaka Regional Contest 2024
