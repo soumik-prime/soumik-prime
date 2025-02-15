@@ -10,7 +10,7 @@
    - Team: Singularity
    - Position: 50th
   
-## IUPC Count - 1
+## IUPC Count - 2
 1. UIU Inter-University Programming Contest 2025
    - Team: Singularity
 2. AUST Inter-University Programming Contest 2025
