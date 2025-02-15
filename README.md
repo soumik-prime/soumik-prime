@@ -5,7 +5,7 @@
 | [My Portfolio](https://samiulislam.dev)
 | [Calculator Project](https://github.com/soumik-prime/Calculator-Project) 
 | [Programming Hero Tasks](https://ph-tasks.samiulislam.dev/)
-| [NEU CSE FEST 2025 WEBSITE](https://cse-fest.shu.edu.bd/)
+| [Cse Fest 2025](https://cse-fest.shu.edu.bd/)
 | [Coming Soon...](#) 
 
 ## ICPC Onsite Count - 1
