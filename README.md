@@ -5,6 +5,16 @@
 | [Calculator Project](https://github.com/soumik-prime/Calculator-Project) | [Programming Hero Tasks](https://ph-tasks.samiulislam.dev/)
 | [Coming Soon...](#) | [My Portfolio](https://samiulislam.dev)
 
+## ICPC Count - 1
+1. Asia Dhaka Regional Contest 2024
+   - Team: Singularity
+   - Position: 50th
+  
+## IUPC Count - 1
+1. UIU Inter-University Programming Contest 2025
+   - Team: Singularity
+2. AUST Inter-University Programming Contest 2025
+   - Team: Singularity
 
 ## Contact me:
 |**Social** | <a href="https://www.facebook.com/soumik.primee"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a> | <a href="https://www.linkedin.com/in/soumik-prime/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a> | <a href="mailto:soumik.shu@gmail.com"><img src="assets/gmail.png" width="30" height="30"/></a>|
