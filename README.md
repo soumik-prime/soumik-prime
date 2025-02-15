@@ -13,6 +13,7 @@
 ## IUPC Onsite Count - 2
 1. UIU Inter-University Programming Contest 2025
    - Team: Singularity
+   - Position: 108th
 2. AUST Inter-University Programming Contest 2025
    - Team: Singularity
 
