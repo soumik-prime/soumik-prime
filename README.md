@@ -5,12 +5,12 @@
 | [Calculator Project](https://github.com/soumik-prime/Calculator-Project) | [Programming Hero Tasks](https://ph-tasks.samiulislam.dev/)
 | [Coming Soon...](#) | [My Portfolio](https://samiulislam.dev)
 
-## ICPC Count - 1
+## ICPC Onsite Count - 1
 1. Asia Dhaka Regional Contest 2024
    - Team: Singularity
    - Position: 50th
   
-## IUPC Count - 2
+## IUPC Onsite Count - 2
 1. UIU Inter-University Programming Contest 2025
    - Team: Singularity
 2. AUST Inter-University Programming Contest 2025
