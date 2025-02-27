@@ -13,12 +13,16 @@
    - Team: Singularity
    - Position: 50th
   
-## IUPC Onsite Count - 2
+## IUPC Onsite Count - 3
 1. UIU Inter-University Programming Contest 2025
    - Team: Singularity
    - Position: 108th
 2. AUST Inter-University Programming Contest 2025
    - Team: Singularity
+   - Position: 87th
+3. NEU Mymensingh Regional IUPC 2025
+   - Team: Singularity
+   - Position: Champion
 
 ## Contact me:
 |**Social** | <a href="https://www.facebook.com/soumik.primee"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a> | <a href="https://www.linkedin.com/in/soumik-prime/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a> | <a href="mailto:soumik.shu@gmail.com"><img src="assets/gmail.png" width="30" height="30"/></a>|
