@@ -5,7 +5,7 @@
 | [My Portfolio](https://samiulislam.dev)
 | [Calculator Project](https://github.com/soumik-prime/Calculator-Project) 
 | [Programming Hero Tasks](https://ph-tasks.samiulislam.dev/)
-| [Cse Fest 2025](https://cse-fest.shu.edu.bd/)
+| [Cse Fest 2025](https://neu-cse-fest-2025.netlify.app//)
 | [Tic Tac Toe](https://github.com/soumik-prime/tic-tac-toe)
 | [Coming Soon...](#) 
 
