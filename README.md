@@ -15,15 +15,15 @@
    - Position: 50th
   
 ## IUPC Onsite Count - 3
-1. UIU Inter-University Programming Contest 2025
-   - Team: Singularity
-   - Position: 108th
-2. AUST Inter-University Programming Contest 2025
-   - Team: Singularity
-   - Position: 87th
 3. NEU Mymensingh Regional IUPC 2025
    - Team: Singularity
    - Position: Champion
+2. AUST Inter-University Programming Contest 2025
+   - Team: Singularity
+   - Position: 87th
+1. UIU Inter-University Programming Contest 2025
+   - Team: Singularity
+   - Position: 108th
 
 ## Contact me:
 |**Social** | <a href="https://www.facebook.com/soumik.primee"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="30" height="30"/></a> | <a href="https://www.linkedin.com/in/soumik-prime/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30" height="30"/></a> | <a href="mailto:soumik.shu@gmail.com"><img src="assets/gmail.png" width="30" height="30"/></a>|
@@ -43,3 +43,11 @@
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=soumik-prime&theme=transparent)
 ##
 ![Leetcode Stats](https://leetcard.jacoblin.cool/soumik-prime?theme=dark&font=Patrick%20Hand%20SC&ext=contest)
+
+## 📈 GitHub Analytics
+<p align="center">
+  <a href="https://github.com/soumik-prime">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumik-prime&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumik-prime&layout=compact&theme=radical"/>
+  </a>
+</p>
