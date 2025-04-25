@@ -47,7 +47,7 @@
 ## 📈 GitHub Analytics
 <p align="center">
   <a href="https://github.com/soumik-prime">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumik-prime&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soumik-prime&show_icons=true&theme=radical"/> &nbsp;&nbsp;
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soumik-prime&layout=compact&theme=radical"/>
   </a>
 </p>
