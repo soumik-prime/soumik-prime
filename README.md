@@ -15,13 +15,13 @@
    - Position: 50th
   
 ## IUPC Onsite Count - 3
-3. NEU Mymensingh Regional IUPC 2025
+1. NEU Mymensingh Regional IUPC 2025
    - Team: Singularity
    - Position: Champion
 2. AUST Inter-University Programming Contest 2025
    - Team: Singularity
    - Position: 87th
-1. UIU Inter-University Programming Contest 2025
+3. UIU Inter-University Programming Contest 2025
    - Team: Singularity
    - Position: 108th
 
@@ -38,10 +38,10 @@
 | :--- | :--- | 
 | **Web Development** | <img src="assets/html-5.svg" width="40" height="40"/> <img src="assets/css-3.svg" width="40" height="40"/> <img src="assets/tailwind.svg" width="40" height="40"/> <img src="assets/React-icon.svg" width="40" height="40"/> |
 
-##
-
+## 📈 Codeforces Analytics
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=soumik-prime&theme=transparent)
-##
+
+## 📈 LeetCode Analytics
 ![Leetcode Stats](https://leetcard.jacoblin.cool/soumik-prime?theme=dark&font=Patrick%20Hand%20SC&ext=contest)
 
 ## 📈 GitHub Analytics
